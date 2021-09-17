@@ -1,5 +1,8 @@
 # CountriesIndicatorsProject
 
+It is a simple front dashboard showing some indicators about countries from regions in the world.
+The front uses Angular framework and retrieves data from public APIs proposed by https://www.worldbank.org
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
 ## Development server
